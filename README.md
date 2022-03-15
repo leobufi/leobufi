@@ -1,6 +1,7 @@
-Hi everyone, I'm Léo !
+# Hi everyone, I'm Léo !
 
->> Originally from graphic design.
->> Just finished the 9 week bootcamp at Le Wagon ! ...
->> Learned Ruby on Rails, HTML, CSS, Bootstrap, ES6, Javascript, P5.js... and ready to work !
->> Looking to collaborate on creative coding projects !
+**Full Stack Web Developper, working on Ruby on Rails, HTML, CSS, Bootstrap, ES6, Javascript, P5.js...!**
+
+Originally from graphic design and looking to collaborate on creative coding projects !
+
+⭐️ Reach me at bufi.leo@gmail.com
