@@ -4,4 +4,4 @@
 
 Originally from graphic design and looking to collaborate on creative coding projects !
 
-⭐️ Reach me at bufi.leo@gmail.com
+⭐️ Reach me at bufi.leo[at]gmail.com
